@@ -4,6 +4,10 @@ module.exports = {
   theme: 
   {
     extend: {},
+    colors:
+    {
+      'midnight': "#000d4d",
+    }
   },
   plugins: 
   [
